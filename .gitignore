@@ -1,0 +1,27 @@
+# Local backups
+/backup_*/
+
+# C++ build artifacts
+/cpp_core/build/
+
+# Python caches
+/repos/starter/**/__pycache__/
+*.pyc
+
+# Intermediate C++ pipeline output
+/repos/starter/out_cpp/
+
+# IDE-local and temporary files
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.iml
+*~
+*.tmp
+*.swp
+*.swo
